@@ -1,0 +1,2095 @@
+{
+  "users": [
+    {
+      "id": "USR-0bac2b5e-86da-4229-a89f-76e34843a8ae",
+      "name": "Jane Doe",
+      "email": "test_patient_1794931925478@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876582025",
+      "phone": "9876582025",
+      "passwordHash": "a5c7ae462b97363d98ebfa779ba1ad9b:f8fb0a97b0b91e3928e3b08411e7db16f74ffb1cd45202910954d7302bae1adbf0bff36972f5eed0b6e6a00180cd62a8116f47683737276e459a969bf5dbce7f",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T16:12:05.515Z",
+      "updatedAt": "2026-11-17T16:12:05.604Z"
+    },
+    {
+      "id": "USR-6d4e7136-9095-49c3-a501-8503b97e02cc",
+      "name": "Jane Doe",
+      "email": "test_patient_1794931745134@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876510511",
+      "phone": "9876510511",
+      "passwordHash": "0c9d0514691f794b92ab368ce53daf08:17450e7b2d7e9b19984b8dfaf481f07fdd3100be554ea2df4a7b52dd7177c04134588fc870d7fa4b3eeb9c8e18c7485c5ee590abf33be927683dad29d914818c",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T16:09:05.171Z",
+      "updatedAt": "2026-11-17T16:09:05.255Z"
+    },
+    {
+      "id": "USR-b0de4613-7dd7-46ed-a58c-72eeb14696c3",
+      "name": "Jane Doe",
+      "email": "test_patient_1794931394158@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876545824",
+      "phone": "9876545824",
+      "passwordHash": "226816bd060dea501a285af14e49d53a:677d1fdfb6edc1238274f516ecd2a07771f0d431561359520a9dc3502507675af45dfc06edd062f33520913a6a941b87608201d1deaa188887f439b87dc4aca9",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T16:03:14.200Z",
+      "updatedAt": "2026-11-17T16:03:14.299Z"
+    },
+    {
+      "id": "USR-e592e9de-9a4c-424e-aff0-ac5da1b0ed75",
+      "name": "Jane Doe",
+      "email": "test_patient_1794929628678@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876519453",
+      "phone": "9876519453",
+      "passwordHash": "9ebfd97623989b8291c36eacf7143e02:df7dfcdc84f0d285d2609b4f1ee77dc03af7373630811811ca99c33a188251f6bf904ca4b82edc1a2b934a9c5e998df2e5d273c8041abab70a0f0d56d318c6f5",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T15:33:48.716Z",
+      "updatedAt": "2026-11-17T15:33:48.804Z"
+    },
+    {
+      "id": "USR-02855e6e-45ee-477c-b933-725eacd1e412",
+      "name": "Jane Doe",
+      "email": "test_patient_1794927572501@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876534628",
+      "phone": "9876534628",
+      "passwordHash": "dfa780aa994978161824d333203ee33c:e71998d8d627ad403874beadd8ee333910497ae011202bf5ed324da29a78531249973e32d178e681c03d53f746ddfd89969e569ba885db0e1f84517e37eb5d92",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T14:59:32.539Z",
+      "updatedAt": "2026-11-17T14:59:32.624Z"
+    },
+    {
+      "id": "USR-15e4931b-aa12-4001-b7e4-7c32fda36dda",
+      "name": "Jane Doe",
+      "email": "test_patient_1794925775138@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876597893",
+      "phone": "9876597893",
+      "passwordHash": "ed583e36946fdc7eb5179cc59df7b63c:c665de93ad5c5857d061e64f96d96bb878c5a334f5ef31c6072c071c86984b2b69b323f98736705d6b500f32687dbaf9a3c537d7947e99bf493c2c42bccbdd0b",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T14:29:35.174Z",
+      "updatedAt": "2026-11-17T14:29:35.254Z"
+    },
+    {
+      "id": "USR-ad63ca63-5673-47f9-8656-322b78d26998",
+      "name": "Jane Doe",
+      "email": "test_patient_1794924346291@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876510502",
+      "phone": "9876510502",
+      "passwordHash": "95787cd9008762c764b7da102b08d90d:c3829d4cb08aedf9481d1b06688ac7af52a030c02d1a2a7bc434bcd3b78d3034be89d5bed874100250ffcdc2a2e56f1084bc2cfb7031943cfebfc77047c6e1bd",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T14:05:46.327Z",
+      "updatedAt": "2026-11-17T14:05:46.406Z"
+    },
+    {
+      "id": "USR-825b2f76-f746-4114-8ef0-f01a83a0d9fa",
+      "name": "Jane Doe",
+      "email": "test_patient_1794923930195@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876565452",
+      "phone": "9876565452",
+      "passwordHash": "ef7f33e6620c67db12e0b4fed9826682:ba084bdccc8090f77f6c8c00638d8bfe57f0e4a894d871836b16843a4c8cb822500546069fbfd03a6bbc7b1b1dbe851f00a0e05663161945b4b531e2ac0a2888",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T13:58:50.234Z",
+      "updatedAt": "2026-11-17T13:58:50.320Z"
+    },
+    {
+      "id": "USR-88648dae-ccfa-4af4-b7d2-7f18f4e0025e",
+      "name": "Jane Doe",
+      "email": "test_patient_1794923032335@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876574776",
+      "phone": "9876574776",
+      "passwordHash": "395075ff927d9ba15bc54ab772ddd161:9f008d73f8550e220b5aa85a6b8e46279dc32926ffe76ce1f6253153fc03b03ab0bded99f21d0a619e49ff4bc8f061ca8390e1c6b769c6fc6965bad15a2c62fb",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T13:43:52.373Z",
+      "updatedAt": "2026-11-17T13:43:52.448Z"
+    },
+    {
+      "id": "USR-a8b7a8a8-7b2b-4149-a438-afbcb3c685db",
+      "name": "Jane Doe",
+      "email": "test_patient_1794920992414@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876533238",
+      "phone": "9876533238",
+      "passwordHash": "d1c217f872a75c209628728ed2a01dd7:76a1fb3e3fc00ebac119fefaa3c9547cb3c2cb3b1bbdd9e6a34e2b3a39a1c53c40f5c66cadeab3feb233e9eb95ccd6c941d545c9a9864289a8c195f8452b5784",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T13:09:52.452Z",
+      "updatedAt": "2026-11-17T13:09:52.537Z"
+    },
+    {
+      "id": "USR-9ae47e8c-0670-41e2-8b8e-f9d9c72d846d",
+      "name": "Jane Doe",
+      "email": "test_patient_1794920884943@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876562533",
+      "phone": "9876562533",
+      "passwordHash": "bdc19615c5919d5cb05505a6b13cd0e6:c894a89384fc37c774f49b834c4595c878e4ad076189da92c1b73ab3265a6f2fb06e36d867f239c04d0acdfb4a0cf9a2bdb87811358bc3dbbeeb21b26ec7c255",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T13:08:04.979Z",
+      "updatedAt": "2026-11-17T13:08:05.058Z"
+    },
+    {
+      "id": "USR-f62fbca9-3db0-4518-b774-56ce867c0163",
+      "name": "Jane Doe",
+      "email": "test_patient_1794920164724@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876510991",
+      "phone": "9876510991",
+      "passwordHash": "edf1984ee472395c7154d605385af9e8:810f976235c8e235568232ec8effd9f85c4f3c78f576f0654adc5c9d12ecb640f273488f7524ada08d93bb30730bc7f4b4c91303c9499b266facf54ab8db1d12",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T12:56:04.761Z",
+      "updatedAt": "2026-11-17T12:56:04.840Z"
+    },
+    {
+      "id": "USR-cf677b7b-3076-46d5-8eef-3baedc7e4a9c",
+      "name": "Jane Doe",
+      "email": "test_patient_1794920074605@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876519920",
+      "phone": "9876519920",
+      "passwordHash": "5b81382b75c6918ec7f2a6b2d084265f:82b7b77e324c3bb692e7ac65af0f0b4220004b3ddfdfae9490cae4f4741724875c2d0c2345bc5f5f04ea4c18ca681b2d7f63921c8efda36d9d7609fe50fefe02",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T12:54:34.654Z",
+      "updatedAt": "2026-11-17T12:54:34.734Z"
+    },
+    {
+      "id": "USR-08038671-3cfe-4d55-a342-409e47e704b8",
+      "name": "Jane Doe",
+      "email": "test_patient_1794918978954@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876572143",
+      "phone": "9876572143",
+      "passwordHash": "5c3cfe98d5084c8b1d0bd090db63edc6:9b45ee60210b3a115dac1b6d973f7f94616cacae795ddedc151070c9e40ee494674a07ae8880d5ea4a23adbb354651a097c02bc0b2bc682e162f6e67124c39c0",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T12:36:18.990Z",
+      "updatedAt": "2026-11-17T12:36:19.069Z"
+    },
+    {
+      "id": "USR-4e30f7eb-b16e-43ff-9b4d-918cf52ceaf5",
+      "name": "Jane Doe",
+      "email": "test_patient_1794918824503@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876529814",
+      "phone": "9876529814",
+      "passwordHash": "f5c7060b0ad3556968e0bdcc84a9e3b2:4685d506e69f91568d9e64330518dadab20b10b36b93e3752ec1348ef3fe8fec752ed99708dd65084aca1276a63a94ad5ba969a78a2b8cf8d97e0a529e490c29",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T12:33:44.540Z",
+      "updatedAt": "2026-11-17T12:33:44.619Z"
+    },
+    {
+      "id": "USR-d8502c0c-06fa-455b-81ca-e86e6f56e949",
+      "name": "Jane Doe",
+      "email": "test_patient_1794918581248@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876540074",
+      "phone": "9876540074",
+      "passwordHash": "dd991709c866b76d51186c9f85bfcb79:184c99c2b61921a0e93d573f9681a5972eabc5daef7c863fb812b9c81c101e4984cef596727ee0cd0059a147c64e7e4b2dbce957fc24a798a4fed6e526406a0e",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T12:29:41.285Z",
+      "updatedAt": "2026-11-17T12:29:41.367Z"
+    },
+    {
+      "id": "USR-77254773-12a9-4cd6-aa2d-f692a0ebf65c",
+      "name": "Jane Doe",
+      "email": "test_patient_1794918514366@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876525616",
+      "phone": "9876525616",
+      "passwordHash": "ec29f91023c6388dea6721de9036fa0a:2f8f437dc3d0c8898aaca24be5a02482904eefbc4c68760c732f49cdd8aedca91cdfcad49eddbc086fecc9601a647adc1b16fd2c176685e72b8e3bf022377ac7",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T12:28:34.406Z",
+      "updatedAt": "2026-11-17T12:28:34.484Z"
+    },
+    {
+      "id": "USR-a3716d23-e9c3-4620-bcfe-950e8cdf7874",
+      "name": "Jane Doe",
+      "email": "test_patient_1794917919946@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876584788",
+      "phone": "9876584788",
+      "passwordHash": "d544292911e9c79a92265a26342c4974:cd238caf4afcf31f5e5acf9bf6744469523996fc9ed2e12f670f629e919c369e0a868144f18473418900213e5517ab07b6ae438094da31ab6f19c3b360ecf4fa",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T12:18:39.983Z",
+      "updatedAt": "2026-11-17T12:18:40.078Z"
+    },
+    {
+      "id": "USR-9428ecb5-1b3b-44f8-b1d4-41bb40103c1e",
+      "name": "Jane Doe",
+      "email": "test_patient_1794917760586@medremind.internal",
+      "dob": "1995-04-12",
+      "gender": "Female",
+      "phoneNumber": "9876520209",
+      "phone": "9876520209",
+      "passwordHash": "facd54ed176ad854d568520bd2ec520a:a9c8f97afbda2f19ff944942b3e777cfaad4d3626fe3ca6f6ae8382803135056bc416ffa8e9390d5ae57e2b0263dabd8bd45abc2c5ff4b3b3ec6c0b5377b1e3f",
+      "role": "patient",
+      "status": "Suspended",
+      "registeredAt": "2026-11-17",
+      "createdAt": "2026-11-17T12:16:00.621Z",
+      "updatedAt": "2026-11-17T12:16:00.699Z"
+    },
+    {
+      "id": "USR-00000000-0000-4000-8000-000000000001",
+      "name": "System Administrator",
+      "email": "admin@medremind.internal",
+      "role": "admin",
+      "status": "Active",
+      "passwordHash": "05915816cf0d934fd7adc870955ca0ba:2ee80e7300040837c384b41910aa8ca7e0f81941e13baf6df437cd459ede1ac605dd2e01a994c9667869cf7aff9a716c391a12cf128b721e1ee555c0f6874d14",
+      "registeredAt": "2026-11-13"
+    }
+  ],
+  "prescriptions": [],
+  "medications": [],
+  "schedules": [],
+  "doseLogs": [],
+  "consents": [
+    {
+      "id": "cst-1794931925547-4be800",
+      "userId": "USR-0bac2b5e-86da-4229-a89f-76e34843a8ae",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T16:12:05.547Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794931745201-55704b",
+      "userId": "USR-6d4e7136-9095-49c3-a501-8503b97e02cc",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T16:09:05.201Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794931394239-b8638a",
+      "userId": "USR-b0de4613-7dd7-46ed-a58c-72eeb14696c3",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T16:03:14.239Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794929628746-a5dbe9",
+      "userId": "USR-e592e9de-9a4c-424e-aff0-ac5da1b0ed75",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T15:33:48.746Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794927572567-14411a",
+      "userId": "USR-02855e6e-45ee-477c-b933-725eacd1e412",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T14:59:32.567Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794925775205-0a1d8e",
+      "userId": "USR-15e4931b-aa12-4001-b7e4-7c32fda36dda",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T14:29:35.205Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794924346355-34cfb6",
+      "userId": "USR-ad63ca63-5673-47f9-8656-322b78d26998",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T14:05:46.355Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794923930267-c8e728",
+      "userId": "USR-825b2f76-f746-4114-8ef0-f01a83a0d9fa",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T13:58:50.267Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794923032398-632848",
+      "userId": "USR-88648dae-ccfa-4af4-b7d2-7f18f4e0025e",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T13:43:52.398Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794920992483-caa1bd",
+      "userId": "USR-a8b7a8a8-7b2b-4149-a438-afbcb3c685db",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T13:09:52.483Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794920885006-945e91",
+      "userId": "USR-9ae47e8c-0670-41e2-8b8e-f9d9c72d846d",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T13:08:05.006Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794920164789-87d9f9",
+      "userId": "USR-f62fbca9-3db0-4518-b774-56ce867c0163",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T12:56:04.789Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794920074684-276105",
+      "userId": "USR-cf677b7b-3076-46d5-8eef-3baedc7e4a9c",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T12:54:34.684Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794918979017-7436c3",
+      "userId": "USR-08038671-3cfe-4d55-a342-409e47e704b8",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T12:36:19.017Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794918824567-a38483",
+      "userId": "USR-4e30f7eb-b16e-43ff-9b4d-918cf52ceaf5",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T12:33:44.567Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794918581313-a91492",
+      "userId": "USR-d8502c0c-06fa-455b-81ca-e86e6f56e949",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T12:29:41.313Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794918514434-1c4cdb",
+      "userId": "USR-77254773-12a9-4cd6-aa2d-f692a0ebf65c",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T12:28:34.434Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794917920009-165a19",
+      "userId": "USR-a3716d23-e9c3-4620-bcfe-950e8cdf7874",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T12:18:40.009Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "cst-1794917760649-498de5",
+      "userId": "USR-9428ecb5-1b3b-44f8-b1d4-41bb40103c1e",
+      "documentVersions": {
+        "terms": "2026.1",
+        "privacy": "2026.1",
+        "aiDisclosure": "2026.1"
+      },
+      "consentedAt": "2026-11-17T12:16:00.649Z",
+      "ageConfirmed": true,
+      "explicitConsentGiven": true,
+      "aiProcessingConsent": true,
+      "statutoryNoticeAcknowledged": true,
+      "status": "ACTIVE"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1794931925606-eaa413",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-0bac2b5e-86da-4229-a89f-76e34843a8ae",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T16:12:05.607Z"
+    },
+    {
+      "id": "log-1794931925601-823a21",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-0bac2b5e-86da-4229-a89f-76e34843a8ae",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794931925478@medremind.internal",
+      "timestamp": "2026-11-17T16:12:05.601Z"
+    },
+    {
+      "id": "log-1794931925549-b9cc83",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-0bac2b5e-86da-4229-a89f-76e34843a8ae",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794931925547-4be800",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T16:12:05.549Z"
+    },
+    {
+      "id": "log-1794931925517-43ed2e",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-0bac2b5e-86da-4229-a89f-76e34843a8ae",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794931925478@medremind.internal",
+        "phone": "9876582025"
+      },
+      "timestamp": "2026-11-17T16:12:05.517Z"
+    },
+    {
+      "id": "log-1794931925474-b867b4",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T16:12:05.474Z"
+    },
+    {
+      "id": "log-1794931925436-1a041d",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T16:12:05.436Z"
+    },
+    {
+      "id": "log-1794931925387-fd6e5c",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T16:12:05.388Z"
+    },
+    {
+      "id": "log-1794931745257-8e25b5",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-6d4e7136-9095-49c3-a501-8503b97e02cc",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T16:09:05.257Z"
+    },
+    {
+      "id": "log-1794931745251-c8493a",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-6d4e7136-9095-49c3-a501-8503b97e02cc",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794931745134@medremind.internal",
+      "timestamp": "2026-11-17T16:09:05.251Z"
+    },
+    {
+      "id": "log-1794931745202-82ca9f",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-6d4e7136-9095-49c3-a501-8503b97e02cc",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794931745201-55704b",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T16:09:05.202Z"
+    },
+    {
+      "id": "log-1794931745173-26ace5",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-6d4e7136-9095-49c3-a501-8503b97e02cc",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794931745134@medremind.internal",
+        "phone": "9876510511"
+      },
+      "timestamp": "2026-11-17T16:09:05.173Z"
+    },
+    {
+      "id": "log-1794931745132-956098",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T16:09:05.132Z"
+    },
+    {
+      "id": "log-1794931745092-068271",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T16:09:05.092Z"
+    },
+    {
+      "id": "log-1794931745045-65709f",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T16:09:05.045Z"
+    },
+    {
+      "id": "log-1794931394301-c048f3",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-b0de4613-7dd7-46ed-a58c-72eeb14696c3",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T16:03:14.301Z"
+    },
+    {
+      "id": "log-1794931394293-e61cca",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-b0de4613-7dd7-46ed-a58c-72eeb14696c3",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794931394158@medremind.internal",
+      "timestamp": "2026-11-17T16:03:14.293Z"
+    },
+    {
+      "id": "log-1794931394240-b1c33f",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-b0de4613-7dd7-46ed-a58c-72eeb14696c3",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794931394239-b8638a",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T16:03:14.240Z"
+    },
+    {
+      "id": "log-1794931394202-0158ee",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-b0de4613-7dd7-46ed-a58c-72eeb14696c3",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794931394158@medremind.internal",
+        "phone": "9876545824"
+      },
+      "timestamp": "2026-11-17T16:03:14.202Z"
+    },
+    {
+      "id": "log-1794931394155-ea7fd7",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T16:03:14.155Z"
+    },
+    {
+      "id": "log-1794931394107-0d1721",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T16:03:14.107Z"
+    },
+    {
+      "id": "log-1794931394046-725e7f",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T16:03:14.046Z"
+    },
+    {
+      "id": "log-1794929628805-3893eb",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-e592e9de-9a4c-424e-aff0-ac5da1b0ed75",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T15:33:48.805Z"
+    },
+    {
+      "id": "log-1794929628800-5ffabd",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-e592e9de-9a4c-424e-aff0-ac5da1b0ed75",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794929628678@medremind.internal",
+      "timestamp": "2026-11-17T15:33:48.800Z"
+    },
+    {
+      "id": "log-1794929628748-5ec288",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-e592e9de-9a4c-424e-aff0-ac5da1b0ed75",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794929628746-a5dbe9",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T15:33:48.748Z"
+    },
+    {
+      "id": "log-1794929628718-4b03e3",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-e592e9de-9a4c-424e-aff0-ac5da1b0ed75",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794929628678@medremind.internal",
+        "phone": "9876519453"
+      },
+      "timestamp": "2026-11-17T15:33:48.718Z"
+    },
+    {
+      "id": "log-1794929628675-82ae10",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T15:33:48.675Z"
+    },
+    {
+      "id": "log-1794929628633-f80805",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T15:33:48.633Z"
+    },
+    {
+      "id": "log-1794929628583-392295",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T15:33:48.583Z"
+    },
+    {
+      "id": "log-1794927572625-1647a7",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-02855e6e-45ee-477c-b933-725eacd1e412",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T14:59:32.625Z"
+    },
+    {
+      "id": "log-1794927572619-d9cade",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-02855e6e-45ee-477c-b933-725eacd1e412",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794927572501@medremind.internal",
+      "timestamp": "2026-11-17T14:59:32.619Z"
+    },
+    {
+      "id": "log-1794927572569-b64b32",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-02855e6e-45ee-477c-b933-725eacd1e412",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794927572567-14411a",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T14:59:32.569Z"
+    },
+    {
+      "id": "log-1794927572540-e093ea",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-02855e6e-45ee-477c-b933-725eacd1e412",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794927572501@medremind.internal",
+        "phone": "9876534628"
+      },
+      "timestamp": "2026-11-17T14:59:32.540Z"
+    },
+    {
+      "id": "log-1794927572499-a17142",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T14:59:32.499Z"
+    },
+    {
+      "id": "log-1794927572459-238183",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T14:59:32.459Z"
+    },
+    {
+      "id": "log-1794927572408-c6305c",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T14:59:32.408Z"
+    },
+    {
+      "id": "log-1794925775255-615c67",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-15e4931b-aa12-4001-b7e4-7c32fda36dda",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T14:29:35.255Z"
+    },
+    {
+      "id": "log-1794925775251-875c84",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-15e4931b-aa12-4001-b7e4-7c32fda36dda",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794925775138@medremind.internal",
+      "timestamp": "2026-11-17T14:29:35.251Z"
+    },
+    {
+      "id": "log-1794925775206-4023e1",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-15e4931b-aa12-4001-b7e4-7c32fda36dda",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794925775205-0a1d8e",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T14:29:35.206Z"
+    },
+    {
+      "id": "log-1794925775176-e0eb13",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-15e4931b-aa12-4001-b7e4-7c32fda36dda",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794925775138@medremind.internal",
+        "phone": "9876597893"
+      },
+      "timestamp": "2026-11-17T14:29:35.176Z"
+    },
+    {
+      "id": "log-1794925775136-c1cd46",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T14:29:35.136Z"
+    },
+    {
+      "id": "log-1794925775096-b15b5f",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T14:29:35.096Z"
+    },
+    {
+      "id": "log-1794925775045-eb62cc",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T14:29:35.045Z"
+    },
+    {
+      "id": "log-1794924346408-63844e",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-ad63ca63-5673-47f9-8656-322b78d26998",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T14:05:46.408Z"
+    },
+    {
+      "id": "log-1794924346403-3804d0",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-ad63ca63-5673-47f9-8656-322b78d26998",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794924346291@medremind.internal",
+      "timestamp": "2026-11-17T14:05:46.403Z"
+    },
+    {
+      "id": "log-1794924346357-ae26de",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-ad63ca63-5673-47f9-8656-322b78d26998",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794924346355-34cfb6",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T14:05:46.357Z"
+    },
+    {
+      "id": "log-1794924346328-57f1da",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-ad63ca63-5673-47f9-8656-322b78d26998",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794924346291@medremind.internal",
+        "phone": "9876510502"
+      },
+      "timestamp": "2026-11-17T14:05:46.328Z"
+    },
+    {
+      "id": "log-1794924346289-ff4d04",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T14:05:46.289Z"
+    },
+    {
+      "id": "log-1794924346244-0711f6",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T14:05:46.244Z"
+    },
+    {
+      "id": "log-1794924346196-40c8ab",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T14:05:46.196Z"
+    },
+    {
+      "id": "log-1794923930322-ddd0da",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-825b2f76-f746-4114-8ef0-f01a83a0d9fa",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T13:58:50.322Z"
+    },
+    {
+      "id": "log-1794923930317-c85443",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-825b2f76-f746-4114-8ef0-f01a83a0d9fa",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794923930195@medremind.internal",
+      "timestamp": "2026-11-17T13:58:50.317Z"
+    },
+    {
+      "id": "log-1794923930269-787d94",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-825b2f76-f746-4114-8ef0-f01a83a0d9fa",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794923930267-c8e728",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T13:58:50.269Z"
+    },
+    {
+      "id": "log-1794923930236-13b717",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-825b2f76-f746-4114-8ef0-f01a83a0d9fa",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794923930195@medremind.internal",
+        "phone": "9876565452"
+      },
+      "timestamp": "2026-11-17T13:58:50.236Z"
+    },
+    {
+      "id": "log-1794923930193-82efc1",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T13:58:50.193Z"
+    },
+    {
+      "id": "log-1794923930151-379900",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T13:58:50.151Z"
+    },
+    {
+      "id": "log-1794923930100-1bac11",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T13:58:50.100Z"
+    },
+    {
+      "id": "log-1794923032450-9bdc09",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-88648dae-ccfa-4af4-b7d2-7f18f4e0025e",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T13:43:52.450Z"
+    },
+    {
+      "id": "log-1794923032445-26d1a5",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-88648dae-ccfa-4af4-b7d2-7f18f4e0025e",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794923032335@medremind.internal",
+      "timestamp": "2026-11-17T13:43:52.445Z"
+    },
+    {
+      "id": "log-1794923032399-433f76",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-88648dae-ccfa-4af4-b7d2-7f18f4e0025e",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794923032398-632848",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T13:43:52.399Z"
+    },
+    {
+      "id": "log-1794923032374-863beb",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-88648dae-ccfa-4af4-b7d2-7f18f4e0025e",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794923032335@medremind.internal",
+        "phone": "9876574776"
+      },
+      "timestamp": "2026-11-17T13:43:52.374Z"
+    },
+    {
+      "id": "log-1794923032333-7598a5",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T13:43:52.333Z"
+    },
+    {
+      "id": "log-1794923032294-0dec1d",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T13:43:52.294Z"
+    },
+    {
+      "id": "log-1794923032246-db7f7f",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T13:43:52.246Z"
+    },
+    {
+      "id": "log-1794920992539-1fbdfe",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-a8b7a8a8-7b2b-4149-a438-afbcb3c685db",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T13:09:52.539Z"
+    },
+    {
+      "id": "log-1794920992534-9bbdd1",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-a8b7a8a8-7b2b-4149-a438-afbcb3c685db",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794920992414@medremind.internal",
+      "timestamp": "2026-11-17T13:09:52.534Z"
+    },
+    {
+      "id": "log-1794920992484-225678",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-a8b7a8a8-7b2b-4149-a438-afbcb3c685db",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794920992483-caa1bd",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T13:09:52.484Z"
+    },
+    {
+      "id": "log-1794920992454-55c90a",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-a8b7a8a8-7b2b-4149-a438-afbcb3c685db",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794920992414@medremind.internal",
+        "phone": "9876533238"
+      },
+      "timestamp": "2026-11-17T13:09:52.454Z"
+    },
+    {
+      "id": "log-1794920992411-0ba778",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T13:09:52.411Z"
+    },
+    {
+      "id": "log-1794920992371-2f5ac1",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T13:09:52.371Z"
+    },
+    {
+      "id": "log-1794920992318-889951",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T13:09:52.318Z"
+    },
+    {
+      "id": "log-1794920885059-84db61",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-9ae47e8c-0670-41e2-8b8e-f9d9c72d846d",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T13:08:05.059Z"
+    },
+    {
+      "id": "log-1794920885054-dcb09d",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-9ae47e8c-0670-41e2-8b8e-f9d9c72d846d",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794920884943@medremind.internal",
+      "timestamp": "2026-11-17T13:08:05.054Z"
+    },
+    {
+      "id": "log-1794920885007-1f51dc",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-9ae47e8c-0670-41e2-8b8e-f9d9c72d846d",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794920885006-945e91",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T13:08:05.007Z"
+    },
+    {
+      "id": "log-1794920884981-bc14ee",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-9ae47e8c-0670-41e2-8b8e-f9d9c72d846d",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794920884943@medremind.internal",
+        "phone": "9876562533"
+      },
+      "timestamp": "2026-11-17T13:08:04.981Z"
+    },
+    {
+      "id": "log-1794920884940-474b17",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T13:08:04.940Z"
+    },
+    {
+      "id": "log-1794920884900-3d99ae",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T13:08:04.900Z"
+    },
+    {
+      "id": "log-1794920884845-d8204f",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T13:08:04.845Z"
+    },
+    {
+      "id": "log-1794920164842-67e59f",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-f62fbca9-3db0-4518-b774-56ce867c0163",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T12:56:04.842Z"
+    },
+    {
+      "id": "log-1794920164837-7799cc",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-f62fbca9-3db0-4518-b774-56ce867c0163",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794920164724@medremind.internal",
+      "timestamp": "2026-11-17T12:56:04.837Z"
+    },
+    {
+      "id": "log-1794920164791-233aa1",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-f62fbca9-3db0-4518-b774-56ce867c0163",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794920164789-87d9f9",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T12:56:04.791Z"
+    },
+    {
+      "id": "log-1794920164763-48d196",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-f62fbca9-3db0-4518-b774-56ce867c0163",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794920164724@medremind.internal",
+        "phone": "9876510991"
+      },
+      "timestamp": "2026-11-17T12:56:04.763Z"
+    },
+    {
+      "id": "log-1794920164721-04026c",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T12:56:04.721Z"
+    },
+    {
+      "id": "log-1794920164677-ad806b",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T12:56:04.677Z"
+    },
+    {
+      "id": "log-1794920164623-d40af4",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T12:56:04.623Z"
+    },
+    {
+      "id": "log-1794920074735-616076",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-cf677b7b-3076-46d5-8eef-3baedc7e4a9c",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T12:54:34.735Z"
+    },
+    {
+      "id": "log-1794920074730-5b5856",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-cf677b7b-3076-46d5-8eef-3baedc7e4a9c",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794920074605@medremind.internal",
+      "timestamp": "2026-11-17T12:54:34.731Z"
+    },
+    {
+      "id": "log-1794920074686-69db01",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-cf677b7b-3076-46d5-8eef-3baedc7e4a9c",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794920074684-276105",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T12:54:34.686Z"
+    },
+    {
+      "id": "log-1794920074655-da1f1b",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-cf677b7b-3076-46d5-8eef-3baedc7e4a9c",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794920074605@medremind.internal",
+        "phone": "9876519920"
+      },
+      "timestamp": "2026-11-17T12:54:34.655Z"
+    },
+    {
+      "id": "log-1794920074602-60b6e0",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T12:54:34.602Z"
+    },
+    {
+      "id": "log-1794920074562-7f32de",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T12:54:34.562Z"
+    },
+    {
+      "id": "log-1794920074514-a308b4",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T12:54:34.514Z"
+    },
+    {
+      "id": "log-1794918979070-6e3057",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-08038671-3cfe-4d55-a342-409e47e704b8",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T12:36:19.071Z"
+    },
+    {
+      "id": "log-1794918979066-56ed61",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-08038671-3cfe-4d55-a342-409e47e704b8",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794918978954@medremind.internal",
+      "timestamp": "2026-11-17T12:36:19.066Z"
+    },
+    {
+      "id": "log-1794918979018-978adb",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-08038671-3cfe-4d55-a342-409e47e704b8",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794918979017-7436c3",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T12:36:19.018Z"
+    },
+    {
+      "id": "log-1794918978992-614e4b",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-08038671-3cfe-4d55-a342-409e47e704b8",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794918978954@medremind.internal",
+        "phone": "9876572143"
+      },
+      "timestamp": "2026-11-17T12:36:18.992Z"
+    },
+    {
+      "id": "log-1794918978952-ffa64c",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T12:36:18.952Z"
+    },
+    {
+      "id": "log-1794918978913-d14c0b",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T12:36:18.913Z"
+    },
+    {
+      "id": "log-1794918978864-b90a18",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T12:36:18.864Z"
+    },
+    {
+      "id": "log-1794918824621-b93786",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-4e30f7eb-b16e-43ff-9b4d-918cf52ceaf5",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T12:33:44.621Z"
+    },
+    {
+      "id": "log-1794918824616-c4a50d",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-4e30f7eb-b16e-43ff-9b4d-918cf52ceaf5",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794918824503@medremind.internal",
+      "timestamp": "2026-11-17T12:33:44.616Z"
+    },
+    {
+      "id": "log-1794918824568-328b8f",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-4e30f7eb-b16e-43ff-9b4d-918cf52ceaf5",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794918824567-a38483",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T12:33:44.568Z"
+    },
+    {
+      "id": "log-1794918824542-b68c2c",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-4e30f7eb-b16e-43ff-9b4d-918cf52ceaf5",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794918824503@medremind.internal",
+        "phone": "9876529814"
+      },
+      "timestamp": "2026-11-17T12:33:44.542Z"
+    },
+    {
+      "id": "log-1794918824500-ed5348",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T12:33:44.500Z"
+    },
+    {
+      "id": "log-1794918824460-7a66c6",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T12:33:44.460Z"
+    },
+    {
+      "id": "log-1794918824407-20a02d",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T12:33:44.407Z"
+    },
+    {
+      "id": "log-1794918581369-752c4c",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-d8502c0c-06fa-455b-81ca-e86e6f56e949",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T12:29:41.369Z"
+    },
+    {
+      "id": "log-1794918581364-5bd36f",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-d8502c0c-06fa-455b-81ca-e86e6f56e949",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794918581248@medremind.internal",
+      "timestamp": "2026-11-17T12:29:41.364Z"
+    },
+    {
+      "id": "log-1794918581315-4b4565",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-d8502c0c-06fa-455b-81ca-e86e6f56e949",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794918581313-a91492",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T12:29:41.315Z"
+    },
+    {
+      "id": "log-1794918581287-cff4aa",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-d8502c0c-06fa-455b-81ca-e86e6f56e949",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794918581248@medremind.internal",
+        "phone": "9876540074"
+      },
+      "timestamp": "2026-11-17T12:29:41.287Z"
+    },
+    {
+      "id": "log-1794918581246-956baa",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T12:29:41.246Z"
+    },
+    {
+      "id": "log-1794918581204-2bd474",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T12:29:41.204Z"
+    },
+    {
+      "id": "log-1794918581152-9ff38a",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T12:29:41.152Z"
+    },
+    {
+      "id": "log-1794918514486-b5ad3e",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-77254773-12a9-4cd6-aa2d-f692a0ebf65c",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T12:28:34.486Z"
+    },
+    {
+      "id": "log-1794918514481-75ed82",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-77254773-12a9-4cd6-aa2d-f692a0ebf65c",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794918514366@medremind.internal",
+      "timestamp": "2026-11-17T12:28:34.481Z"
+    },
+    {
+      "id": "log-1794918514435-210675",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-77254773-12a9-4cd6-aa2d-f692a0ebf65c",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794918514434-1c4cdb",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T12:28:34.435Z"
+    },
+    {
+      "id": "log-1794918514407-735752",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-77254773-12a9-4cd6-aa2d-f692a0ebf65c",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794918514366@medremind.internal",
+        "phone": "9876525616"
+      },
+      "timestamp": "2026-11-17T12:28:34.407Z"
+    },
+    {
+      "id": "log-1794918514363-35c006",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T12:28:34.363Z"
+    },
+    {
+      "id": "log-1794918514318-b24a61",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T12:28:34.318Z"
+    },
+    {
+      "id": "log-1794918514258-fab73e",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T12:28:34.258Z"
+    },
+    {
+      "id": "log-1794917920079-9725aa",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-a3716d23-e9c3-4620-bcfe-950e8cdf7874",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T12:18:40.079Z"
+    },
+    {
+      "id": "log-1794917920075-b3d39d",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-a3716d23-e9c3-4620-bcfe-950e8cdf7874",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794917919946@medremind.internal",
+      "timestamp": "2026-11-17T12:18:40.075Z"
+    },
+    {
+      "id": "log-1794917920010-e2db06",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-a3716d23-e9c3-4620-bcfe-950e8cdf7874",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794917920009-165a19",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T12:18:40.010Z"
+    },
+    {
+      "id": "log-1794917919984-2d3a5b",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-a3716d23-e9c3-4620-bcfe-950e8cdf7874",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794917919946@medremind.internal",
+        "phone": "9876584788"
+      },
+      "timestamp": "2026-11-17T12:18:39.985Z"
+    },
+    {
+      "id": "log-1794917919944-8f24d5",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T12:18:39.944Z"
+    },
+    {
+      "id": "log-1794917919904-d400d7",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T12:18:39.904Z"
+    },
+    {
+      "id": "log-1794917919849-ead7c3",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T12:18:39.849Z"
+    },
+    {
+      "id": "log-1794917760700-1d6e25",
+      "action": "ADMIN_USER_STATUS_CHANGE",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "targetUserId": "USR-9428ecb5-1b3b-44f8-b1d4-41bb40103c1e",
+        "newStatus": "Suspended"
+      },
+      "timestamp": "2026-11-17T12:16:00.700Z"
+    },
+    {
+      "id": "log-1794917760696-39a642",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-9428ecb5-1b3b-44f8-b1d4-41bb40103c1e",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier test_patient_1794917760586@medremind.internal",
+      "timestamp": "2026-11-17T12:16:00.696Z"
+    },
+    {
+      "id": "log-1794917760651-1e9e13",
+      "action": "STATUTORY_CONSENT_RECORDED",
+      "actorId": "USR-9428ecb5-1b3b-44f8-b1d4-41bb40103c1e",
+      "entityName": "CONSENT",
+      "entityId": null,
+      "details": {
+        "consentId": "cst-1794917760649-498de5",
+        "versions": {
+          "terms": "2026.1",
+          "privacy": "2026.1",
+          "aiDisclosure": "2026.1"
+        },
+        "ageConfirmed": true
+      },
+      "timestamp": "2026-11-17T12:16:00.651Z"
+    },
+    {
+      "id": "log-1794917760622-9299cb",
+      "action": "USER_REGISTRATION",
+      "actorId": "USR-9428ecb5-1b3b-44f8-b1d4-41bb40103c1e",
+      "entityName": "USER",
+      "entityId": null,
+      "details": {
+        "name": "Jane Doe",
+        "role": "patient",
+        "email": "test_patient_1794917760586@medremind.internal",
+        "phone": "9876520209"
+      },
+      "timestamp": "2026-11-17T12:16:00.622Z"
+    },
+    {
+      "id": "log-1794917760584-084cf6",
+      "action": "ADMIN_LOGIN",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "User System Administrator logged in",
+      "timestamp": "2026-11-17T12:16:00.584Z"
+    },
+    {
+      "id": "log-1794917760543-d7548e",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier admin@medremind.internal",
+      "timestamp": "2026-11-17T12:16:00.543Z"
+    },
+    {
+      "id": "log-1794917760493-f98072",
+      "action": "FAILED_LOGIN_ATTEMPT",
+      "actorId": "USR-00000000-0000-4000-8000-000000000001",
+      "entityName": "USER",
+      "entityId": null,
+      "details": "Failed password attempt for identifier ADMIN",
+      "timestamp": "2026-11-17T12:16:00.494Z"
+    }
+  ],
+  "notifications": [],
+  "foodLogs": [],
+  "nutritionTargets": {}
+}
